@@ -1,8 +1,8 @@
 import React from "react";
 import PortfolioCard from "./PortfolioCards"; // Import PortfolioCard component
 import "./FlipCard.css"; // Import CSS for flip card styling
-import lbk from "../assets/little-book-keeper.png"; // Import image for the first card
-import emp from "../assets/emp-screenshot.png"; // Import image for the second card
+import lbk from "../assets/download.jpg"; // Placeholder image for the first card
+import emp from "../assets/download.jpg"; // Placeholder image for the second card
 
 const Portfolio: React.FC = () => {
   return (

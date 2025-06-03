@@ -1,4 +1,4 @@
-import aboutme from '../assets/tokyotower.jpg';
+import aboutme from '../assets/download.jpg';
 
 const Aboutme = () => {
   return (
